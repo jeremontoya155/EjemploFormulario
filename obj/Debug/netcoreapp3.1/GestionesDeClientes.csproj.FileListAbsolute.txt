@@ -1,0 +1,17 @@
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\bin\Debug\netcoreapp3.1\GestionesDeClientes.exe
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\bin\Debug\netcoreapp3.1\GestionesDeClientes.deps.json
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\bin\Debug\netcoreapp3.1\GestionesDeClientes.runtimeconfig.json
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\bin\Debug\netcoreapp3.1\GestionesDeClientes.runtimeconfig.dev.json
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\bin\Debug\netcoreapp3.1\GestionesDeClientes.dll
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\bin\Debug\netcoreapp3.1\GestionesDeClientes.pdb
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\obj\Debug\netcoreapp3.1\GestionesDeClientes.csproj.AssemblyReference.cache
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\obj\Debug\netcoreapp3.1\GestionesDeClientes.Boton.resources
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\obj\Debug\netcoreapp3.1\GestionesDeClientes.Gestiones.resources
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\obj\Debug\netcoreapp3.1\GestionesDeClientes.csproj.GenerateResource.cache
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\obj\Debug\netcoreapp3.1\GestionesDeClientes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\obj\Debug\netcoreapp3.1\GestionesDeClientes.AssemblyInfoInputs.cache
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\obj\Debug\netcoreapp3.1\GestionesDeClientes.AssemblyInfo.cs
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\obj\Debug\netcoreapp3.1\GestionesDeClientes.csproj.CoreCompileInputs.cache
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\obj\Debug\netcoreapp3.1\GestionesDeClientes.dll
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\obj\Debug\netcoreapp3.1\GestionesDeClientes.pdb
+D:\CURSOS TODOS\C#\EjemploGestiones\GestionesDeClientes\GestionesDeClientes\obj\Debug\netcoreapp3.1\GestionesDeClientes.genruntimeconfig.cache
